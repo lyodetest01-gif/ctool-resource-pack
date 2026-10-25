@@ -1,0 +1,25 @@
+# CustomItemTool Resource Pack
+
+Resource pack for the CustomItemTool Minecraft plugin.
+
+## Features
+- Custom item models and textures.
+- Designed to work with the CustomItemTool plugin.
+- Includes resource pack assets and model definitions.
+
+## Installation
+1. Download the resource pack ZIP from the Releases section.
+2. Configure the resource pack URL in your Minecraft server settings.
+3. Restart the server and accept the resource pack when joining.
+
+## Requirements
+- Minecraft Java Edition version compatible with the resource pack.
+- CustomItemTool plugin installed on the server.
+
+## Important Notes
+- This resource pack is intended to be used with the matching CustomItemTool plugin version.
+- Custom models may not work on Bedrock Edition through Geyser without a separate Bedrock-compatible pack.
+- Compatibility should be tested with your Minecraft server version.
+
+## License
+Please contact the resource pack author for permission before redistributing or modifying these assets.
